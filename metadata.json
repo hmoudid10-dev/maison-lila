@@ -1,0 +1,6 @@
+{
+  "name": "Maison Lila",
+  "description": "Pâtisserie artisanale d'exception à Rabat - Gâteaux raffinés, entremets signature, macarons et créations sur-mesure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
